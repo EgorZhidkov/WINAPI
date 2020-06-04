@@ -1,0 +1,6 @@
+﻿  lab4.cpp
+c:\users\илья\source\repos\lab4\lab4\lab4.cpp(55): warning C4229: устаревший элемент: пропуск модификаторов для данных
+c:\users\илья\source\repos\lab4\lab4\lab4.cpp(55): warning C4101: a: неиспользованная локальная переменная
+c:\users\илья\source\repos\lab4\lab4\lab4.cpp(203): warning C4101: szT: неиспользованная локальная переменная
+c:\users\илья\source\repos\lab4\lab4\lab4.cpp(243): warning C4101: ps: неиспользованная локальная переменная
+  lab4.vcxproj -> C:\Users\илья\source\repos\lab4\Debug\lab4.exe
