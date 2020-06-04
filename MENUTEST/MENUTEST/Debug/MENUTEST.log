@@ -1,0 +1,8 @@
+﻿  MENUTEST.cpp
+c:\users\илья\source\repos\menutest\menutest\menutest.cpp(230): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\илья\source\repos\menutest\menutest\menutest.cpp(242): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\илья\source\repos\menutest\menutest\menutest.cpp(265): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\илья\source\repos\menutest\menutest\menutest.cpp(277): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\илья\source\repos\menutest\menutest\menutest.cpp(299): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\илья\source\repos\menutest\menutest\menutest.cpp(311): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MENUTEST.vcxproj -> C:\Users\илья\source\repos\MENUTEST\Debug\MENUTEST.exe
