@@ -1,0 +1,20 @@
+﻿  graphic.cpp
+c:\users\илья\source\repos\graphic\graphic\graphic.cpp(201): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\илья\source\repos\graphic\graphic\graphic.cpp(210): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\илья\source\repos\graphic\graphic\graphic.cpp(213): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\илья\source\repos\graphic\graphic\graphic.cpp(219): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\илья\source\repos\graphic\graphic\graphic.cpp(226): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\илья\source\repos\graphic\graphic\graphic.cpp(249): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\илья\source\repos\graphic\graphic\graphic.cpp(252): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\илья\source\repos\graphic\graphic\graphic.cpp(253): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\илья\source\repos\graphic\graphic\graphic.cpp(267): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\илья\source\repos\graphic\graphic\graphic.cpp(276): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\илья\source\repos\graphic\graphic\graphic.cpp(279): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\илья\source\repos\graphic\graphic\graphic.cpp(285): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\илья\source\repos\graphic\graphic\graphic.cpp(292): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\илья\source\repos\graphic\graphic\graphic.cpp(317): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\илья\source\repos\graphic\graphic\graphic.cpp(320): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\илья\source\repos\graphic\graphic\graphic.cpp(321): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\илья\source\repos\graphic\graphic\graphic.cpp(351): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\илья\source\repos\graphic\graphic\graphic.cpp(352): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  graphic.vcxproj -> C:\Users\илья\source\repos\graphic\Debug\graphic.exe
